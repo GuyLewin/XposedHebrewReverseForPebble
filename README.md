@@ -10,3 +10,8 @@ You can do that by using the [PebbleBit](http://spebblebits.com/fonts/) service.
 This module should be installed on an Android device that already has Xposed Installer installed.
 
 To compile this module - get XposedBridgeApi.jar and put it on the root directory of this project (alongside the AndroidManifest).
+
+# Download Link
+
+You can find the most recently compiled APK at:
+https://dl.dropboxusercontent.com/u/3819031/Hebrew%20Reverse%20for%20Pebble.apk
